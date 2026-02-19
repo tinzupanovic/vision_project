@@ -1,0 +1,38 @@
+class,accuracy,support
+American Pit Bull Terrier,0.7058823529411765,17
+American Bulldog,0.7272727272727273,22
+Russian Blue,0.7272727272727273,22
+German Shorthaired,0.75,16
+Staffordshire Bull Terrier,0.7916666666666666,24
+Boxer,0.8181818181818182,22
+Maine Coon,0.8333333333333334,24
+English Cocker Spaniel,0.8421052631578947,19
+Birman,0.8571428571428571,14
+Beagle,0.8666666666666667,15
+Egyptian Mau,0.8695652173913043,23
+British Shorthair,0.9,20
+Ragdoll,0.9130434782608695,23
+Chihuahua,0.9130434782608695,23
+Keeshond,0.92,25
+Basset Hound,0.9230769230769231,13
+English Setter,0.9333333333333333,15
+Great Pyrenees,0.9375,16
+Abyssinian,0.9444444444444444,18
+Persian,0.9473684210526315,19
+Sphynx,0.9545454545454546,22
+Saint Bernard,0.9545454545454546,22
+Samoyed,0.9565217391304348,23
+Japanese Chin,0.9655172413793104,29
+Leonberger,1.0,25
+Bengal,1.0,21
+Siamese,1.0,18
+Shiba Inu,1.0,19
+Scottish Terrier,1.0,21
+Bombay,1.0,16
+Havanese,1.0,18
+Pug,1.0,19
+Pomeranian,1.0,17
+Newfoundland,1.0,23
+Miniature Pinscher,1.0,16
+Wheaten Terrier,1.0,20
+Yorkshire Terrier,1.0,17
