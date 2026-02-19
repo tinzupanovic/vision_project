@@ -112,3 +112,19 @@ This repo generates plots and tables under reports/.
 - Data augmentation is applied only to training.
 - Validation/test use deterministic transforms.
 - Model selection is based on validation accuracy; test evaluation is performed after finalizing the approach.
+
+---
+## Results (visuals)
+
+### Training curves (layer4 fine-tuning)
+
+![Training accuracy](reports/figures/layer4_finetune_acc.png)
+![Training loss](reports/figures/layer4_finetune_loss.png)
+
+### Test confusion matrix
+
+![Confusion matrix (test)](reports/figures/confusion_matrix_test.png)
+
+### Validation error gallery
+
+![Error gallery (validation)](reports/figures/error_gallery_val.png)
